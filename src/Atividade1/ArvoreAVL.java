@@ -323,7 +323,7 @@ public class ArvoreAVL {
 
             switch (opcao) {
                 case 1:
-                    Scanner lerArquivo = new Scanner(new File("src/dados.txt"));
+                    Scanner lerArquivo = new Scanner(new File("src/Atividade1/dados.txt"));
 
                     while (lerArquivo.hasNextLine()) {
                         int valor = Integer.parseInt(lerArquivo.nextLine());

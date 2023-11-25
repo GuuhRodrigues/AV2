@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39e7cb78-24cb-4032-86b1-7c3baf1c658f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProvaAV2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade1/ArvoreAVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade1/dados.txt" afterDir="false" />
-    </list>
+    <list default="true" id="39e7cb78-24cb-4032-86b1-7c3baf1c658f" name="Changes" comment="feat: av2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1700871431375</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: av2">
+      <option name="closed" value="true" />
+      <created>1700873785071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700873785071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: av2" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: av2" />
   </component>
 </project>
